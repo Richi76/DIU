@@ -37,14 +37,13 @@ Miembros
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> He elegido esta persona debido a que es una persona joven, que ha encontrado este caso ha encontrado esta web por un comentario en las redes sociales, además que los jovenes suelen frecuentar más este tipo de aplicaciones. En el caso contrario esta la persona mayor para ver el contraste que podemos tener de la aplicacion, con dos polos totalmente opuestos de la moneda.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
-
+>>> Son 2 experiencias de usuario ligadas a los nuestras dos personas que tenemos en cuestion, lo he elegido para contrastar, y para tambien en parte demonstrar que los hostels, buscan mas el publico joven que los mal mayor, por eso estan estructuradas así. Una persona mayor iria mucho mas directo al grano.
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
