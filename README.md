@@ -37,13 +37,13 @@ Miembros
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> He elegido esta persona debido a que es una persona joven, que ha encontrado este caso ha encontrado esta web por un comentario en las redes sociales, además que los jovenes suelen frecuentar más este tipo de aplicaciones. En el caso contrario esta la persona mayor para ver el contraste que podemos tener de la aplicacion, con dos polos totalmente opuestos de la moneda.
+>>> He elegido esta persona debido a que es una persona joven, dado que los jovenes suelen frecuentar más este tipo de alojamiento pero he querido ver un caso opuesto de una persona mayor para ver el contraste que podemos tener para elegir un hostel, ambos lo hacen por que es una opcion barata, pero para decidir entre uno o otro tienen criterios bastante diferentes.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+>>> Son 2 experiencias de usuario ligadas a los nuestras dos personas que tenemos en cuestion, lo he elegido para contrastar, y para tambien en parte demonstrar que los hostels, para ver las situaciones que se pueden encontrar el en proceso de busqueda y elección, y para demostrar que hay casos determinados, como estos, que una persona mayor tenga más facilidad para encontrarlo por que le han enseñado, y asidua a buscarlo, contra una experiencia de una persona joven que es su primera vez, pero al final sus criterios el 95% de las veces son diametralmente opuestos y las sensaciones que produzca la pagina web pueden llegar a ser influyentes a la hora de la eleccion.
 
->>> Son 2 experiencias de usuario ligadas a los nuestras dos personas que tenemos en cuestion, lo he elegido para contrastar, y para tambien en parte demonstrar que los hostels, buscan mas el publico joven que los mal mayor, por eso estan estructuradas así. Una persona mayor iria mucho mas directo al grano.
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
