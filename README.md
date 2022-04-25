@@ -16,7 +16,7 @@ Logotipo:
 
 Miembros
  * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * Carlos Corts Valdivia
 
 ----- 
 
@@ -32,17 +32,17 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Las características que 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> He elegido esta persona debido a que es una persona joven, dado que los jovenes suelen frecuentar más este tipo de alojamiento pero he querido ver un caso opuesto de una persona mayor para ver el contraste que podemos tener para elegir un hostel, ambos lo hacen por que es una opcion barata, pero para decidir entre uno o otro tienen criterios bastante diferentes.
+>>> Hemos elegido esta persona debido a que es una persona joven, dado que los jovenes suelen frecuentar más este tipo de alojamiento. Sin embargo, también hemos querido ver un caso opuesto de una persona mayor para ver el contraste que podemos tener para elegir un hostel. Ambos lo hacen porque es una opción barata, pero para decidir entre uno u otro tienen criterios bastante diferentes.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> Son 2 experiencias de usuario ligadas a los nuestras dos personas que tenemos en cuestion, lo he elegido para contrastar, y para tambien en parte demonstrar que los hostels, para ver las situaciones que se pueden encontrar el en proceso de busqueda y elección, y para demostrar que hay casos determinados, como estos, que una persona mayor tenga más facilidad para encontrarlo por que le han enseñado, y asidua a buscarlo, contra una experiencia de una persona joven que es su primera vez, pero al final sus criterios el 95% de las veces son diametralmente opuestos y las sensaciones que produzca la pagina web pueden llegar a ser influyentes a la hora de la eleccion.
+>>> Son 2 experiencias de usuario ligadas a nuestras dos personas. Se ha realizado de esta forma para ver las situaciones que se pueden encontrar en el proceso de búsqueda y elección, y para demostrar que hay determinados casos en los que una persona mayor tiene más facilidad para encontrar lo que busca ya que le han enseñado y lo hace habitualmente, mientras que para la persona joven es su primera vez. Al final sus criterios la mayoría de las veces son diametralmente opuestos y las sensaciones que produzca la pagina web pueden llegar a ser influyentes a la hora de la elección.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
