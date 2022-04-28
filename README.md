@@ -32,13 +32,25 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Las características que 
+>>> Las características que hemos decidido evaluar son:
+ * Proporciona acceso, o al menos se muestran las redes sociales del hostel.
+ * Te permite cambiar el idioma de la web.
+ * Facilita más de una forma de contacto.
+ * Muestra fotos de las habitaciones.
+ * Muestra de forma gráfica (fotos o vídeos) los servicios ofrecidos.
+ * Describe el lugar en el que se encuentra, el ambiente que se respira.
+ * Ofrece información acerca de medidas tomadas con respecto al Covid.
+ Según este análisis, el "White Nest Hostel" sería el mejor competidor, pues cumple con todas las características valoradas. Incluso "Oh! My Hostel" cumple con más características.
+
+ Desde nuestro punto de vista, lo más grave respecto a la web del Lemon Rock es el hecho de no dar la opción de cambiar de idioma. Sin embargo, en el resto de aspectos diríamos que la web del Lemon es mejor, o al menos visualmente más atractiva, mostrando de diversas formas los servicios ofrecidos por el hostel.
+
+ Por un lado, la web de "White Nest Hostel" se ve bastante desfasada, y además el rendimiento es lento con respecto a las otras dos webs valoradas. Por otro lado, se podría decir que la web de "Oh! My Hostel" y del Lemon están a un nivel parecido, aunque como se ha dicho antes, la del Lemon muestra de forma más clara y atractiva lo que vas a encontrar en el hostel.
 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Hemos elegido esta persona debido a que es una persona joven, dado que los jovenes suelen frecuentar más este tipo de alojamiento. Sin embargo, también hemos querido ver un caso opuesto de una persona mayor para ver el contraste que podemos tener para elegir un hostel. Ambos lo hacen porque es una opción barata, pero para decidir entre uno u otro tienen criterios bastante diferentes.
+>>> Hemos elegido esta persona debido a que es una persona joven, dado que los jóvenes suelen frecuentar más este tipo de alojamiento. Sin embargo, también hemos querido ver un caso opuesto de una persona mayor para ver el contraste que podemos tener para elegir un hostel. Ambos lo hacen porque es una opción barata, pero para decidir entre uno u otro tienen criterios bastante diferentes.
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
