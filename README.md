@@ -1,7 +1,7 @@
 # DIU22
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU1_01AABB.  Curso: 2021/22 
+Grupo: DIU1_ForTheWin.  Curso: 2021/22 
 Updated: 11/2/2022
 
 Proyecto: 
@@ -19,10 +19,6 @@ Miembros
  * Carlos Corts Valdivia
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
