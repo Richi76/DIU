@@ -56,16 +56,13 @@ Hemos elegido esta persona debido a que es una persona joven, dado que los jóve
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Son 2 experiencias de usuario ligadas a nuestras dos personas. Se ha realizado de esta forma para ver las situaciones que se pueden encontrar en el proceso de búsqueda y elección, y para demostrar que hay determinados casos en los que una persona mayor tiene más facilidad para encontrar lo que busca ya que le han enseñado y lo hace habitualmente, mientras que para la persona joven es su primera vez. Al final sus criterios la mayoría de las veces son diametralmente opuestos y las sensaciones que produzca la pagina web pueden llegar a ser influyentes a la hora de la elección.
+Son dos experiencias de usuario ligadas a nuestras dos personas. Se ha realizado de esta forma para ver las situaciones que se pueden encontrar en el proceso de búsqueda y elección, y para demostrar que hay determinados casos en los que una persona mayor tiene más facilidad para encontrar lo que busca ya que le han enseñado y lo hace habitualmente, mientras que para la persona joven es su primera vez. Al final sus criterios la mayoría de las veces son diametralmente opuestos y las sensaciones que produzca la pagina web pueden llegar a ser influyentes a la hora de la elección.
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+La valoración numérica obtenida a partir de la revisión de usabilidad es de 74 sobre 100. A priori y con los conocimientos que tenemos de momento, consideramos que es una puntuación bastante fiel. La nota es alta, reflejando que se trata de una web relativamente bien diseñada. Sin embargo, no es lo suficientemente elevada, de forma que se podría sacar como conclusión que hay otras tantas webs que quedarían por encima.
 
 
 ## Paso 2. UX Design  
