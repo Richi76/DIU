@@ -68,20 +68,7 @@ La valoración numérica obtenida a partir de la revisión de usabilidad es de 7
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+Hemos decidido utilizar la malla receptora ya que nos parece la más sencilla y directa de implementar, y además, a partir de la cual podemos sacar más conclusiones.
 
 ![Método UX](P2/malla_receptora.png)
 
@@ -90,6 +77,9 @@ La valoración numérica obtenida a partir de la revisión de usabilidad es de 7
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
+
+
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
