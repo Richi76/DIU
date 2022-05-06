@@ -83,7 +83,7 @@ La valoración numérica obtenida a partir de la revisión de usabilidad es de 7
 >>> (150-200 caracteres)
 
 
-![Método UX](P2/malla-receptora.png)
+![Método UX](P2/malla_receptora.png)
 
 
 
