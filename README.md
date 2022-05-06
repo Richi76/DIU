@@ -5,11 +5,12 @@ Grupo: DIU1_ForTheWin.  Curso: 2021/22
 Updated: 11/2/2022
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+
+LemonRoom
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+LemonRoom será una funcionalidad que permitirá al usuario reservar habitación en el hostel a través de la web.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
