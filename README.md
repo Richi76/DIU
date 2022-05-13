@@ -76,7 +76,6 @@ Hemos decidido utilizar la malla receptora ya que nos parece la más sencilla y 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
 
 Nuestra propuesta de valor consiste en implementar la posibilidad de poder reservar una habitación a través de la página web del hostel Consideramos que es algo vital y característico que encontrarías en casi cualquier otro hostel u hotel. A través de un diseño de las interfaces pertinentes que permitan al usuario reservar habitación de forma intuitiva, rápida y sencilla, se le estaría facilitando la acción al usuario, y además descargando al empleado del hostel de un trabajo que puede ser realizado de forma automática.
 
@@ -88,7 +87,9 @@ A parte de esta propuesta, le hemos añadido a la web la opción de cambiar de i
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+En este caso, hemos decidido hacer dos diferenciaciones distintas: en función de si son españoles o extrajeros, y en función de su edad. 
+
+![Método UX](P2/images/Task Analysis And Prototipe-User_taskmatrix.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
