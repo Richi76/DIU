@@ -89,7 +89,7 @@ A parte de esta propuesta, le hemos añadido a la web la opción de cambiar de i
 
 En este caso, hemos decidido hacer dos diferenciaciones distintas: en función de si son españoles o extrajeros, y en función de su edad. 
 
-![Método UX](P2/images/Task Analysis And Prototipe-User_taskmatrix.png)
+![Método UX](P2/images/Task_Analysis_And_Prototipe-User_taskmatrix.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
