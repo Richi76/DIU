@@ -95,7 +95,7 @@ En este caso, hemos decidido hacer dos diferenciaciones distintas: en función d
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-![Método UX](P2/images/Task_Analysis_And_Prototipe-User_taskflow.png)
+![Método UX](P2/images/Task_Analysis_And_Prototipe-User_Taskflow.png)
 
 Término | Significado     
 | ------------- | -------
