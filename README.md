@@ -65,12 +65,12 @@ La valoración numérica obtenida a partir de la revisión de usabilidad es de 7
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / Empathy map / POV
 ----
 
 Hemos decidido utilizar la malla receptora ya que nos parece la más sencilla y directa de implementar, y además, a partir de la cual podemos sacar más conclusiones.
 
-![Método UX](P2/malla_receptora.png)
+![Método UX](P2/images/malla_receptora.png)
 
 
 
@@ -78,7 +78,11 @@ Hemos decidido utilizar la malla receptora ya que nos parece la más sencilla y 
 ----
 >>> Propuesta de valor 
 
+Nuestra propuesta de valor consiste en implementar la posibilidad de poder reservar una habitación a través de la página web del hostel Consideramos que es algo vital y característico que encontrarías en casi cualquier otro hostel u hotel. A través de un diseño de las interfaces pertinentes que permitan al usuario reservar habitación de forma intuitiva, rápida y sencilla, se le estaría facilitando la acción al usuario, y además descargando al empleado del hostel de un trabajo que puede ser realizado de forma automática.
 
+A parte de esta propuesta, le hemos añadido a la web la opción de cambiar de idioma, lo cual aportaría mucho valor y ampliaría el rango de clientes que podrían, por lo pronto, entender mejor el contenido de la web y plantearse más seriamente si acudir o no. 
+
+![Método UX](P2/images/scope-canvas.png)
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
