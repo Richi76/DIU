@@ -141,7 +141,7 @@ Reservar mesa
 
 Lista de eventos
 
-![Método UX](P2/images/Task_Analysis_And_Prototipe-ListaDeEventos.png)
+![Método UX](P2/images/Task_Analysis_And_Prototipe-LlstaDeEventos.png)
 
 <!-- ------------------- -->
 
