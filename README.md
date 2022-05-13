@@ -95,12 +95,17 @@ En este caso, hemos decidido hacer dos diferenciaciones distintas: en función d
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
+![Método UX](P2/images/Task_Analysis_And_Prototipe-User_taskflow.png)
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Home  | Página principal del hostel. Se presentan las distintas opciones que el usuario puede realizar.
+  Cambiar idioma  | En este caso podría estar implementado como banderas representando cada idioma.
+  Reservar habitacion  | Permite al usuario navegar a la página de reserva de habitación.
+  Eventos  | Permite al usuario ver la lista de próximos eventos e incluso reservar para poder acudir si fuese necesario.
+  FAQ  | Típica opción de preguntas frecuentes donde se responden las dudas más habituales que puedan surgirle al usuario.
+  Contacto  | Ofrece las distintas formas de contacto que el hostel ponga a disposición del usuario.
+  RSS  | Muestra las redes sociales del hostel.
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
