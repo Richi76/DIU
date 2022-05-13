@@ -111,7 +111,62 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+El prototipo de interfaces del sitio se ha realizado utilizando la herramiento drawio.
+
+<!-- ------------------- -->
+
+Home
+
+![Método UX](P2/images/Task_Analysis_And_Prototipe-Home.png)
+
+<!-- ------------------- -->
+
+Lista de habitaciones
+
+![Método UX](P2/images/Task_Analysis_And_Prototipe-ListaDeHabitaciones.png)
+
+<!-- ------------------- -->
+
+Reservar habitación
+
+![Método UX](P2/images/Task_Analysis_And_Prototipe-Habitación.png)
+
+<!-- ------------------- -->
+
+Reservar mesa
+
+![Método UX](P2/images/Task_Analysis_And_Prototipe-ReservarMesa.png)
+
+<!-- ------------------- -->
+
+Lista de eventos
+
+![Método UX](P2/images/Task_Analysis_And_Prototipe-ListaDeEventos.png)
+
+<!-- ------------------- -->
+
+Reservar evento
+
+![Método UX](P2/images/Task_Analysis_And_Prototipe-Evento.png)
+
+<!-- ------------------- -->
+
+Pagar
+
+![Método UX](P2/images/Task_Analysis_And_Prototipe-Pagar.png)
+
+<!-- ------------------- -->
+
+Contacto
+
+![Método UX](P2/images/Task_Analysis_And_Prototipe-Contacto.png)
+
+<!-- ------------------- -->
+
+FAQ
+
+![Método UX](P2/images/Task_Analysis_And_Prototipe-FAQ.png)
+
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
