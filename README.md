@@ -6,11 +6,11 @@ Updated: 11/2/2022
 
 Proyecto: 
 
-LemonRoom
+>>> LemonRoom
 
 Descripción: 
 
-LemonRoom será una funcionalidad que permitirá al usuario reservar habitación en el hostel a través de la web.
+>>> LemonRoom será una funcionalidad que permitirá al usuario reservar habitación en el hostel a través de la web.
 
 Logotipo: 
 
