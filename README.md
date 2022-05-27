@@ -13,6 +13,7 @@ Descripción:
 >>> LemonRoom será una funcionalidad que permitirá al usuario reservar habitación en el hostel a través de la web.
 
 Logotipo: 
+
 ![Método UX](P3/logo-lemonrock.png)
 
 Miembros
