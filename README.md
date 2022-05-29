@@ -185,8 +185,10 @@ FAQ
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+Hemos utilizado la herramienta [Web Flow](https://webflow.com). Se puede previsualizar en el siguiente enlace: [link](https://lemonroom-landing-page.webflow.io/).
 
->>> Plantear Landing Page 
+![Método UX](P3/landing-page.png)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
