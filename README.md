@@ -185,7 +185,7 @@ FAQ
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-Hemos utilizado la herramienta [Web Flow](https://webflow.com). Se puede previsualizar en el siguiente enlace: [link](https://lemonroom-landing-page.webflow.io/).
+Hemos utilizado la herramienta [Web Flow](https://webflow.com). Se puede previsualizar en el siguiente enlace: [link](https://lemonroom-landing-page.webflow.io/). Puesto que estamos ofertando tanto eventos como habitaciones, se dan dos CTAs cercanos entre ellos para no desviar la atención y centrar el foco en ambos.
 
 ![Método UX](P3/landing-page.png)
 
@@ -202,7 +202,13 @@ Para documentarnos en esta sección hemos usado como fuente [ui-patterns](https:
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Splash             | Explore             | Chat
+:-------------------------:|:-------------------------:|:-------------------------:
+![Método UX](P3/splash.png)  |  ![Método UX](P3/explore.png) | ![Método UX](P3/chat.png) 
+
+Explore Evento             | Explore Habitacion             |
+:-------------------------:|:-------------------------:|
+![Método UX](P3/explore-evento.png)  |  ![Método UX](P3/explore-habitacion.png) |
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
