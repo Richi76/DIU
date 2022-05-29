@@ -225,10 +225,6 @@ Explore             | Explore Evento             | Explore Habitacion
 -----
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
-
 ## Paso 4. Evaluación 
 
 
