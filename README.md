@@ -202,13 +202,13 @@ Para documentarnos en esta sección hemos usado como fuente [ui-patterns](https:
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-Splash             | Explore             | Chat
+Splash             | Chat             | Profile
 :-------------------------:|:-------------------------:|:-------------------------:
-![Método UX](P3/splash.png)  |  ![Método UX](P3/explore.png) | ![Método UX](P3/chat.png) 
+![Método UX](P3/splash.png)  |  ![Método UX](P3/chat.png) | ![Método UX](P3/profile.png) 
 
-Explore Evento             | Explore Habitacion             |
-:-------------------------:|:-------------------------:|
-![Método UX](P3/explore-evento.png)  |  ![Método UX](P3/explore-habitacion.png) |
+Explore             | Explore Evento             | Explore Habitacion
+:-------------------------:|:-------------------------:|:-------------------------:
+![Método UX](P3/explore.png)  |  ![Método UX](P3/explore-evento.png) | ![Método UX](P3/explore-habitacion.png)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
