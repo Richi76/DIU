@@ -186,10 +186,7 @@ FAQ
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![Método UX](P3/moodboard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
