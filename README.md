@@ -209,7 +209,7 @@ Para documentarnos en esta sección hemos usado como fuente [ui-patterns](https:
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-Splash             | Chat             | Profile
+Splash             | Reservar Mesa             | Profile
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Método UX](P3/splash.png)  |  ![Método UX](P3/chat.png) | ![Método UX](P3/profile.png) 
 
