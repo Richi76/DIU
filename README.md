@@ -237,26 +237,16 @@ Los compañeros proponen una oferta gastrónomica durante la semana del Corpus, 
 ----
 
  * **Federico Alarcos** (4,3,4) = Discapacitado, Fiestero y Sorprendido.
- Es un señor con una discapacidad que no puede mover bien su brazo izquierdo, pero mas o menos se apaña para poder navegar por el internet, aunque necesita un teclado especializado, tiene 35 años puede llevar una vida más o menos normal con su discapacidad, y su actitud hacia la tecnología es baja, aunque está sorprendido por todo lo que puede hacer la pagina web.
+ Es un señor que no puede mover bien su brazo izquierdo, pero más o menos se apaña para poder navegar por Internet, aunque necesita un teclado especializado. Tiene 35 años, puede llevar una vida más o menos normal pese a su discapacidad. No trabaja, recibe una subvención del estado y está todo el dia de fiesta. Su actitud hacia la tecnología es baja, aunque está sorprendido por todo lo que puede hacer la página web. Windows
  
  * **Ana Guillamón** (2,1,6) = Madre, Estudiante y Triste.
- Es una madre que tuvo un parto con 20 años, está estudiando la carrera de filología inglesa, pero ya no tiene tiempo para nada y está triste por eso, su actitud hacia la tecnología es alta. Su actitud ha sido triste porque está bien tan bien hecho que le ha recordado a su exnovio informático. Linux
+ Es una madre que tuvo un hijo con 20 años. Está estudiando la carrera de filología inglesa, pero ya no tiene tiempo para nada y está triste por eso. Su actitud hacia la tecnología es alta. Linux
  
  * **Raul Capilla** (4,4,6) = Discapacitado, Mozo de Almacén y Triste.
- Tiene una discapacidad de ser sordomudo, ya no puede escuchar, trabajar de un almacén que le hacen gestos para saber lo que tiene que recoger, tiene 50 años,5 pero está triste porque le gustaria dominar más la aplicación, y su actitud hacia la tecnología es media. Mac
+ Tiene una discapacidad por ser sordomudo. Trabaja de mozo en un almacén, donde le hacen gestos para saber lo que tiene que recoger. Tiene 50 años, pero está triste porque le gustaria dominar más la aplicación, y su actitud hacia la tecnología es media. Mac
 
 * **Alexia Putellas** (5,2,5) = 40 años, Traductor y Disgustado.
- Es una mujer que ya hace tiempo que se graduó y se gana la vida traduciendo idiomas, y se encuentra en un estado continuo de disgusto por que las traducciones del traductor de google de la versión en alemán no son fidedignas para nada. Phone
-
-
-
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+ Es una mujer que ya hace tiempo que se graduó y se gana la vida como traductora. Se encuentra en un estado continuo de disgusto porque las traducciones del traductor de google de la versión en alemán no son fidedignas para nada. Phone
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
