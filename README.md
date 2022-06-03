@@ -236,8 +236,9 @@ Los compañeros proponen una oferta gastrónomica durante la semana del Corpus, 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+Federico Alarcos (4,3,4) = Discapacitado, Fiestero y Sorprendido
+Es un señor con una discapacidad que no puede mover bien su brazo izquierdo, pero mas o menos se apaña para poder navegar por el internet, aunque necesita un teclado especializado, tiene 35 años puede llevar una vida más o menos normal con su discapacidad, y su actitud hacia la tecnología es baja, aunque está sorprendido por todo lo que puede hacer la pagina web.
+
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
