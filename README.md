@@ -228,8 +228,9 @@ Explore             | Explore Evento             | Explore Habitacion
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+https://github.com/jmegui/DIU
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Los compañeros proponen una oferta gastrónomica durante la semana del Corpus, en la que cada día habrá un menú especial y se homenajeará a una figura del rock. El objetivo que tienen es hacer más llamativo y simplificar el diseño actual, haciéndolo más intuitivo.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
