@@ -252,10 +252,6 @@ Los compañeros proponen una oferta gastrónomica durante la semana del Corpus, 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
@@ -265,38 +261,16 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
 
 
-
->>> Valoración personal 
-
-
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
-
-## Conclusión final / Valoración de las prácticas
-
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
+ * **Moodboard.**
+ La elección de colores la considero muy adecuada, ya que su propuesta se basa en mantenerse cercanos al diseño original. Desde mi punto de vista, son colores que casan muy bien y refuerzan la identidad del hostel. El logo me parece un acierto, de hecho si fuese el dueño del Lemonrock me plantearía seriamente adoptarlo.
+ 
+ 
+ * **Landing page.**
+ 
+ 
+ 
+ * **Prototipo.**
+ 
 
 
 
