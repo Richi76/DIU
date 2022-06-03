@@ -236,8 +236,19 @@ Los compañeros proponen una oferta gastrónomica durante la semana del Corpus, 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
- * **Federico Alarcos** (4,3,4) = Discapacitado, Fiestero y Sorprendido
+ * **Federico Alarcos** (4,3,4) = Discapacitado, Fiestero y Sorprendido.
  Es un señor con una discapacidad que no puede mover bien su brazo izquierdo, pero mas o menos se apaña para poder navegar por el internet, aunque necesita un teclado especializado, tiene 35 años puede llevar una vida más o menos normal con su discapacidad, y su actitud hacia la tecnología es baja, aunque está sorprendido por todo lo que puede hacer la pagina web.
+ 
+ * **Ana Guillamón** (2,1,6) = Madre, Estudiante y Triste.
+ Es una madre que tuvo un parto con 20 años, está estudiando la carrera de filología inglesa, pero ya no tiene tiempo para nada y está triste por eso, su actitud hacia la tecnología es alta. Su actitud ha sido triste porque está bien tan bien hecho que le ha recordado a su exnovio informático. Linux
+ 
+ * **Raul Capilla** (4,4,6) = Discapacitado, Mozo de Almacén y Triste.
+ Tiene una discapacidad de ser sordomudo, ya no puede escuchar, trabajar de un almacén que le hacen gestos para saber lo que tiene que recoger, tiene 50 años,5 pero está triste porque le gustaria dominar más la aplicación, y su actitud hacia la tecnología es media. Mac
+
+* **Alexia Putellas** (5,2,5) = 40 años, Traductor y Disgustado.
+ Es una mujer que ya hace tiempo que se graduó y se gana la vida traduciendo idiomas, y se encuentra en un estado continuo de disgusto por que las traducciones del traductor de google de la versión en alemán no son fidedignas para nada. Phone
+
+
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
