@@ -272,19 +272,19 @@ Cuestionario SUS | Raul Capilla | Alexia Putellas
   Necesito aprender muchas cosas antes de manejarme en el website | 3 | 1
 
 
- * **Moodboard.**
- La elección de colores la considero muy adecuada, ya que su propuesta se basa en mantenerse cercanos al diseño original. Desde mi punto de vista, son colores que casan muy bien y refuerzan la identidad del hostel. El logo me parece un acierto, de hecho si fuese el dueño del Lemonrock me plantearía seriamente adoptarlo.
- 
- 
- * **Landing page.**
- 
- 
- 
- * **Prototipo.**
- 
+
+Lo primero que te das cuenta al entrar en el enlace proporcionado es que los nombre de cada menú se solapan con el icono asignado, lo cual visualmente es un poco molesto.
+
+Por lo demás, es un sitio bastante sencillo e intuitivo. La primera vez que he entrado no sabía muy bien que iba a suceder al clickar en cada una de las opciones disponibles. Una vez las pruebas, te adaptas rápidamente. Los enlaces de la parte de arriba te redireccionan a diferentes secciones de la web principal del Lemon Rock, mientras que los enlaces de abajo te facilitan un catálogo de eventos y un formulario para gestionar reservas respectivamente.
+
+Como aspectos de **accesibilidad** a comentar, diría que el contraste entre el fondo y el texto es correcto, creo que cualquier persona podría distinguir con relativa facilidad los colores. Sin embargo, habría que tocar el tamaño de la fuente, ya que hay zonas donde se solapan texto e icono, o títulos que no se ven por completo.
+
+Respecto a la **identidad**, el logo lo considero ideal. De hecho, si fuese socio del Lemon, me plantearía adoptarlo. Los colores elegidos concuerdan con el website principal e identiican al hostel. Como mejora, únicamente ofrecen la posibilidad de contacto en la portada del microsite.
+
+La **navegabilidad**, como se comentó anteriormente, es sencilla e intuitiva. No hay opciones de más, y puedes hacer todo lo que yo al menos esperaría del local: consultar eventos, gestionar reservas y visitar la web principal.
 
 
-
+Como conclusión, se podría decir con tranquilidad que cumple con el objetivo que buscaban de sencillez e intuitividad, facilitando y resumiendo el homepage principal.
 
 
 
