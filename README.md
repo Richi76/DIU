@@ -237,28 +237,39 @@ Los compañeros proponen una oferta gastrónomica durante la semana del Corpus, 
 ----
 
  * **Federico Alarcos** (4,3,4) = Discapacitado, Fiestero y Sorprendido.
- Es un señor que no puede mover bien su brazo izquierdo, pero más o menos se apaña para poder navegar por Internet, aunque necesita un teclado especializado. Tiene 35 años, puede llevar una vida más o menos normal pese a su discapacidad. No trabaja, recibe una subvención del estado y está todo el dia de fiesta. Su actitud hacia la tecnología es baja, aunque está sorprendido por todo lo que puede hacer la página web. Windows
+ Es un señor que no puede mover bien su brazo izquierdo, pero más o menos se apaña para poder navegar por Internet, aunque necesita un teclado especializado. Tiene 35 años, puede llevar una vida más o menos normal pese a su discapacidad. No trabaja, recibe una subvención del estado y está todo el dia de fiesta. Su actitud hacia la tecnología es baja, aunque está sorprendido por todo lo que puede hacer la página web. Espera encontrar un sitio para pasar un fin de semana con sus amigos de Granada que lleva mucho tiempo sin ver. Windows
  
  * **Ana Guillamón** (2,1,6) = Madre, Estudiante y Triste.
- Es una madre que tuvo un hijo con 20 años. Está estudiando la carrera de filología inglesa, pero ya no tiene tiempo para nada y está triste por eso. Su actitud hacia la tecnología es alta. Linux
+ Es una madre que tuvo un hijo con 20 años. Está estudiando la carrera de filología inglesa, pero ya no tiene tiempo para nada y está triste por eso. Su actitud hacia la tecnología es alta. Busca un sitio barato para alojarse para hacer una visita familiar, y lo tiene que hacer de forma urgente. Linux
  
  * **Raul Capilla** (4,4,6) = Discapacitado, Mozo de Almacén y Triste.
- Tiene una discapacidad por ser sordomudo. Trabaja de mozo en un almacén, donde le hacen gestos para saber lo que tiene que recoger. Tiene 50 años, pero está triste porque le gustaria dominar más la aplicación, y su actitud hacia la tecnología es media. Mac
+ Tiene una discapacidad por ser sordomudo. Trabaja de mozo en un almacén, donde le hacen gestos para saber lo que tiene que recoger. Tiene 50 años, pero está triste porque le gustaria dominar más la aplicación, y su actitud hacia la tecnología es media. Busca un sitio para ver si puede encontrar otro trabajo, y le han dicho que el Lemon era una buena opción. Mac
 
 * **Alexia Putellas** (5,2,5) = 40 años, Traductor y Disgustado.
- Es una mujer que ya hace tiempo que se graduó y se gana la vida como traductora. Se encuentra en un estado continuo de disgusto porque las traducciones del traductor de google de la versión en alemán no son fidedignas para nada. Phone
+ Es una mujer que ya hace tiempo que se graduó y se gana la vida como traductora. Se encuentra en un estado continuo de disgusto porque las traducciones del traductor de google de la versión en alemán no son fidedignas para nada. Lo que busca en esta app es ir a un congreso de alemán y ha tenido que elegir una opcion cercana al congreso porque tiene que ir muy temprano. Phone
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+![Método UX](P4/diu-cuestionarioSUS.png)
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+Cuestionario SUS | Raul Capilla | Alexia Putellas     
+| ------------- | ------------- | -------------
+  Creo que me gustará visitar con frecuencia este website | 2 | 1
+  Encontré el website innecesariamente complejo | 2 | 1
+  Pensé que era fácil utilizar este website | 3 | 4
+  Creo que necesitaría el apoyo de un experto para recorrer el website | 2 | 1
+  Encontré las funciones del website bastante bien integradas | 4 | 3
+  Pensé que había demasiada inconsistencia en el website | 2 | 4
+  Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 5 | 4
+  Encontré el website muy grande al recorrerlo | 1 | 1
+  Me sentí muy confiado en el manejo del webiste | 2 | 4
+  Necesito aprender muchas cosas antes de manejarme en el website | 3 | 1
 
 
  * **Moodboard.**
